@@ -1,14 +1,16 @@
 [
     {
         "name": "iOS导航",
+        "url":"https://wenghengcong.github.io/iOS-Compass/",
         "bg_color": "#43D552",
         "page":1,
-        "filetype":1
+        "file_type":1
     },
     {
         "name": "工程实践",
+        "url":"https://api.github.com/repos/wenghengcong/Share-for-iOS/contents/PDF",
         "bg_color": "#FB2025",
-        "page":1,
-        "filetype":2
+        "page":2,
+        "file_type":2
     }
 ]
