@@ -3,21 +3,24 @@
         "name": "iOS导航",
         "url":"https://wenghengcong.github.io/iOS-Compass/",
         "bg_color": "#43D552",
-        "page":1,
-        "file_type":0
+        "page":1
     },
     {
         "name": "工程实践",
-        "url":"https://api.github.com/repos/wenghengcong/Share-for-iOS/contents/PDF",
+        "url":"https://api.github.com/repos/wenghengcong/Share-for-iOS/contents/Practice",
         "bg_color": "#FB2025",
-        "page":2,
-        "file_type":1
+        "page":2
     },
     {
         "name": "脑图风暴",
         "url":"https://api.github.com/repos/wenghengcong/Share-for-iOS/contents/MindNote",
         "bg_color": "#FEC209",
-        "page":2,
-        "file_type":3
+        "page":2
+    },
+    {
+        "name": "夯实基础",
+        "url":"https://api.github.com/repos/wenghengcong/Share-for-iOS/contents/Foundation",
+        "bg_color": "#463BCC",
+        "page":2
     }
 ]
