@@ -4,13 +4,20 @@
         "url":"https://wenghengcong.github.io/iOS-Compass/",
         "bg_color": "#43D552",
         "page":1,
-        "file_type":1
+        "file_type":0
     },
     {
         "name": "工程实践",
         "url":"https://api.github.com/repos/wenghengcong/Share-for-iOS/contents/PDF",
         "bg_color": "#FB2025",
         "page":2,
-        "file_type":2
+        "file_type":1
+    },
+    {
+        "name": "脑图风暴",
+        "url":"https://api.github.com/repos/wenghengcong/Share-for-iOS/contents/MindNote",
+        "bg_color": "#FEC209",
+        "page":2,
+        "file_type":3
     }
 ]
