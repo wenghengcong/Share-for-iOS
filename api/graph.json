@@ -22,5 +22,12 @@
         "url":"https://api.github.com/repos/wenghengcong/Share-for-iOS/contents/Foundation",
         "bg_color": "#463BCC",
         "page":2
+    },
+    {
+        "name": "面试必记",
+        "url":"",
+        "tag":["必记"],
+        "bg_color": "#4DBCF9",
+        "page":3
     }
 ]
