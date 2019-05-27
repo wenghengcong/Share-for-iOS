@@ -6,6 +6,13 @@
         "page":1
     },
     {
+        "name": "面试必记",
+        "url":"",
+        "tags":["必记"],
+        "bg_color": "#4DBCF9",
+        "page":3
+    },
+    {
         "name": "工程实践",
         "url":"https://api.github.com/repos/wenghengcong/Share-for-iOS/contents/Practice",
         "bg_color": "#FB2025",
@@ -22,12 +29,6 @@
         "url":"https://api.github.com/repos/wenghengcong/Share-for-iOS/contents/Foundation",
         "bg_color": "#463BCC",
         "page":2
-    },
-    {
-        "name": "面试必记",
-        "url":"",
-        "tags":["必记"],
-        "bg_color": "#4DBCF9",
-        "page":3
     }
+  
 ]
