@@ -43,6 +43,12 @@
         "url":"https://api.github.com/repos/wenghengcong/Share-for-iOS/contents/Foundation",
         "bg_color": "#463BCC",
         "page":2
+    },
+    {
+        "name": "大杂烩",
+        "url":"https://api.github.com/repos/wenghengcong/Share-for-iOS/contents/Wiki",
+        "bg_color": "#FD8108",
+        "page":2
     }
   
 ]
