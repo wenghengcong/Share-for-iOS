@@ -46,6 +46,7 @@
             "page":3
         },
         {
+            "copyright": true,
             "name": "夯实基础",
             "url":"https://api.github.com/repos/wenghengcong/Share-for-iOS/contents/Foundation",
             "bg_color": "#463BCC",
