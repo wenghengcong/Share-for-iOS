@@ -2,12 +2,14 @@
     "review": true,
     "data": [
         {
+            "copyright": true,
             "name": "iOS导航",
             "url":"https://wenghengcong.github.io/iOS-Compass/",
             "bg_color": "#FEC209",
             "page":1
         },
         {
+            "copyright": true,
             "name": "面试必记",
             "url":"",
             "tags":["必记"],
@@ -15,6 +17,7 @@
             "page":3
         },
         {
+            "copyright": true,
             "name": "最佳实践",
             "url":"",
             "tags":["最佳实践"],
@@ -22,18 +25,20 @@
             "page":3
         },
         {
-            "name": "工程实战",
+            "copyright": false,
             "url":"https://api.github.com/repos/wenghengcong/Share-for-iOS/contents/Practice",
             "bg_color": "#FB2025",
             "page":2
         },
         {
+            "copyright": true,
             "name": "脑图风暴",
             "url":"https://api.github.com/repos/wenghengcong/Share-for-iOS/contents/MindNote",
             "bg_color": "#43D552",
             "page":2
         },
         {
+            "copyright": true,
             "name": "精益思维",
             "url":"",
             "tags":["思维"],
@@ -47,6 +52,7 @@
             "page":2
         },
         {
+            "copyright": false,
             "name": "大杂烩",
             "url":"https://api.github.com/repos/wenghengcong/Share-for-iOS/contents/Wiki",
             "bg_color": "#FD8108",
