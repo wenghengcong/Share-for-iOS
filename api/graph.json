@@ -2,7 +2,7 @@
     "review": true,
     "data": [
         {
-            "copyright": true,
+            "copyright": false,
             "name": "iOS导航",
             "url":"https://wenghengcong.github.io/iOS-Compass/",
             "bg_color": "#FEC209",
