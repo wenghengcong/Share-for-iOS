@@ -26,6 +26,7 @@
         },
         {
             "copyright": false,
+            "name": "大厂实战",
             "url":"https://api.github.com/repos/wenghengcong/Share-for-iOS/contents/Practice",
             "bg_color": "#FB2025",
             "page":2
